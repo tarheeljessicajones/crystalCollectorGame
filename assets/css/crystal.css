@@ -11,9 +11,9 @@
 	max-width: 100%;
 }
 
-.jumbotron {
-	background: pink;
-	font-color: yellow;
+.jumbotron, h1 {
+	font-color: white;
+	color: white;
 	font-weight: bold;
 	text-align: center;
 	font-family: 'Bungee Shade', cursive;
