@@ -39,7 +39,7 @@
                 $("#gamesWon").html("Games Won: " + wins);
                 $("#gamesLost").html("Games Lost: " + losses);
                 alert("SORRY, BUT YOU LOST!");
-        };
+        }
       });
 
 
@@ -64,7 +64,7 @@
                 $("#gamesWon").html("Games Won: " + wins);
                 $("#gamesLost").html("Games Lost: " + losses);
                 alert("SORRY, BUT YOU LOST!");
-          };
+          }
       });
 
 
@@ -89,9 +89,8 @@
                 $("#gamesWon").html("Games Won: " + wins);
                 $("#gamesLost").html("Games Lost: " + losses);
                 alert("SORRY, BUT YOU LOST!");
-        };
+        }
       });
-
 
 
       //display crystal value and add value to total score
@@ -115,6 +114,6 @@
                $("#gamesWon").html("Games Won: " + wins);
                 $("#gamesLost").html("Games Lost: " + losses);
                 alert("SORRY, BUT YOU LOST!");
-        };
+        }
       });
- });
+ })
